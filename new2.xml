@@ -1,12 +1,18 @@
 <?xml version="1.0"?>
-<Text>
+<About me>
     <Student>
         <First_name> Gleb </First_name>
         <Last_name> Bashchak </Last_name>
         <Age> 31 </Age>
     </Student>
-    <Pets>
-        <Names> Lucia and Melissa </Names>
-    </Pets>
+    <My pets>
+        <Names> Cats Lucia and Melissa </Names>
+    </My pets>
     <Salary> 5000 dollars USA </Salary>
-</Text>
+    <My Favorites:>
+        <Movie> Inception </Movie>
+        <Serial> The lost </Serial>
+        <Food> Barbecue meat </Food>
+        <Country> Greece </Country>
+    </My Favorites>
+</About me>
