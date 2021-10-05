@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Text>
+    <Student>
+        <First_name> Gleb </First_name>
+        <Last_name> Bashchak </Last_name>
+        <Age> 31 </Age>
+    </Student>
+    <Pets>
+        <Names> Lucia and Melissa </Names>
+    </Pets>
+    <Salary> 5000 dollars USA </Salary>
+</Text>
