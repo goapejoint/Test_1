@@ -1,6 +1,7 @@
 {
-    "Name": "Bashchak Gleb",
-    "age": "31",
-    "Pets": "1 cat",
+    "First name": "Gleb",
+    "Last name": "Bashchak", 
+    "Age": "31",
+    "Pets": "2 cats: Lucia and Melissa",
     "Desired salary": "5000 dollars USA"
 }   
