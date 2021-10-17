@@ -1,0 +1,12 @@
+Bug id:
+Summary:
+Descriprion:
+	Steps to reproduce:
+	Actual result:
+	Expected result:
+	Requirement ID:
+	Reproduced on:
+	Reproducibility:
+	Workaround:
+Severity:
+Priority:
