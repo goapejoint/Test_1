@@ -1,0 +1,8 @@
+build: 1.0
+Environment: Windows 10
+Test date: 17.10.2021
+Tester: glebowski
+
+Test Type: Smoke
+Cheking: functional
+Result: pass
